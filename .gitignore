@@ -1,0 +1,12 @@
+
+\.idea/
+
+TIMESERIES/
+
+*.nc
+
+*.png
+
+FigJar/
+
+ipynb/\.ipynb_checkpoints/
