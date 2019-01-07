@@ -1,0 +1,10 @@
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20180012018031.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20180322018059.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20180602018090.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20180912018120.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20181212018151.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20181522018181.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20181822018212.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20182132018243.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20182442018273.L3m_MO_IOP_bbp_443_giop_4km.nc
+https://oceandata.sci.gsfc.nasa.gov/cgi/getfile/A20182742018304.L3m_MO_IOP_bbp_443_giop_4km.nc
