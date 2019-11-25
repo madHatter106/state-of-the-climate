@@ -14,3 +14,5 @@ ipynb/\.ipynb_checkpoints/
 Papers/
 
 soc2018/TIMESERIES_old/
+
+soc2018/ipynb/\.ipynb_checkpoints/
